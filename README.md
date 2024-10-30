@@ -1,1 +1,1 @@
-# halloween-blog-demo
+# app-templates
